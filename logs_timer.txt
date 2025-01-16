@@ -1,0 +1,41 @@
+Logs for Countdown Timer
+==============================
+2025-01-14 11:04:58 | ERROR | Invalid input: Please enter a valid number.
+2025-01-14 11:07:16 | ERROR | Invalid input: Please enter a valid number.
+2025-01-14 11:07:47 | ERROR | Invalid input: Please enter a valid number.
+2025-01-14 11:08:11 | ERROR | Invalid input: Please enter a valid number.
+2025-01-14 11:10:26 | ERROR | Invalid input: Please enter a valid number.
+2025-01-14 11:10:28 | ERROR | Invalid input: Please enter a valid number.
+2025-01-14 11:10:49 | START | Countdown started for 5.0 seconds.
+2025-01-14 11:10:54 | END | Countdown completed.
+2025-01-14 11:10:58 | ERROR | Invalid input: Please enter a valid number.
+2025-01-14 11:12:35 | ERROR | Invalid input: Please enter a valid number.
+2025-01-14 11:13:00 | ERROR | Invalid input: Please enter a valid number.
+2025-01-14 11:13:13 | START | Countdown started for 5.0 seconds.
+2025-01-14 11:13:18 | END | Countdown completed.
+2025-01-14 11:13:21 | ERROR | Invalid input: Please enter a valid number.
+2025-01-14 11:15:44 | ERROR | Invalid input: Please enter a valid number.
+2025-01-14 11:15:51 | START | Countdown started for 2.0 seconds.
+2025-01-14 11:15:53 | END | Countdown completed.
+2025-01-14 11:20:20 | START | Countdown started for 8.0 seconds.
+2025-01-14 11:20:28 | END | Countdown completed.
+2025-01-14 11:20:49 | START | Countdown started for 7.0 seconds.
+2025-01-14 11:20:56 | END | Countdown completed.
+2025-01-14 11:28:39 | START | Countdown started for 2.5 seconds.
+2025-01-14 11:28:42 | END | Countdown completed.
+2025-01-14 11:28:46 | ERROR | Invalid input: Duration must be a positive number.
+2025-01-14 11:28:53 | START | Countdown started for 1.0 seconds.
+2025-01-14 11:28:54 | END | Countdown completed.
+2025-01-14 15:21:46 | START | Countdown started for 5.0 seconds.
+2025-01-14 15:21:51 | END | Countdown completed.
+2025-01-14 15:21:56 | START | Countdown started for 12.0 seconds.
+2025-01-14 15:22:08 | END | Countdown completed.
+2025-01-14 16:07:55 | START | Countdown started for 60 seconds.
+2025-01-14 16:08:55 | END | Countdown completed.
+2025-01-14 16:18:03 | ERROR | Invalid input: Invalid input: Invalid input format. Use formats like '5m30s', '3m', or '45s'.
+2025-01-14 16:18:12 | ERROR | Invalid input: Invalid input: Invalid input format. Use formats like '5m30s', '3m', or '45s'.
+2025-01-14 16:18:22 | ERROR | Invalid input: Invalid input: Invalid input format. Use formats like '5m30s', '3m', or '45s'.
+2025-01-14 16:18:31 | START | Countdown started for 3 seconds.
+2025-01-14 16:18:34 | END | Countdown completed.
+2025-01-14 16:18:59 | START | Countdown started for 5 seconds.
+2025-01-14 16:19:04 | END | Countdown completed.
